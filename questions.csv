@@ -1,0 +1,9 @@
+type,question,option1,option2,option3,option4,answer
+choice,請問 1 + 1 = ?,1,2,3,4,2
+choice,請問 5 - 3 = ?,1,2,3,4,2
+fill,請問 3 x 3 = ?,,,,9
+fill,請問 10 ÷ 2 = ?,,,,5
+choice,請問 7 + 2 = ?,8,9,10,11,9
+fill,請問 6 - 4 = ?,,,,2
+choice,請問 4 x 2 = ?,6,7,8,9,8
+fill,請問 12 ÷ 4 = ?,,,,3
